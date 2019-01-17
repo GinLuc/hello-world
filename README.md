@@ -1,2 +1,3 @@
 # hello-world
-The First Repository that i created
+Primeiro Repositório criado
+Abrigará todos os 'Hello World' das diferentes linguagens de programação que aprenderei
